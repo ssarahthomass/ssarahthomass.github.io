@@ -1,0 +1,6 @@
+# Create a new repo called: yourusername.github.io
+git clone https://github.com/yourusername/yourusername.github.io
+# Put your index.html file inside
+git add index.html
+git commit -m "Initial portfolio site"
+git push origin main
